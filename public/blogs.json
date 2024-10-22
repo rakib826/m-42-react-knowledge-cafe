@@ -1,0 +1,42 @@
+[
+  {
+      "id": 1,
+      "cover": "https://cdn.pixabay.com/photo/2015/09/17/17/25/code-944499_1280.jpg",
+      "title": "The Art of Coding",
+      "author_img": "https://cdn.pixabay.com/photo/2018/02/16/14/38/portrait-3157821_1280.jpg",
+      "author": "Jane Doe",
+      "posted_date": "2024-01-15",
+      "reading_time": 15,
+      "hashtags": ["#Coding", "#Programming", "#Tech"]
+  },
+  {
+      "id": 2,
+      "cover": "https://cdn.pixabay.com/photo/2019/10/03/12/12/javascript-4523100_1280.jpg",
+      "title": "Mastering JavaScript",
+      "author_img": "https://cdn.pixabay.com/photo/2016/11/18/19/07/happy-1836445_1280.jpg",
+      "author": "John Smith",
+      "posted_date": "2024-02-20",
+      "reading_time": 20,
+      "hashtags": ["#JavaScript", "#WebDevelopment", "#Frontend"]
+  },
+  {
+      "id": 3,
+      "cover": "https://cdn.pixabay.com/photo/2016/11/19/21/01/analysis-1841158_1280.jpg",
+      "title": "Data Science Essentials",
+      "author_img": "https://cdn.pixabay.com/photo/2016/05/03/16/10/morning-1369446_1280.jpg",
+      "author": "Alice Johnson",
+      "posted_date": "2024-03-05",
+      "reading_time": 25,
+      "hashtags": ["#DataScience", "#MachineLearning", "#Analytics"]
+  },
+  {
+      "id": 4,
+      "cover": "https://cdn.pixabay.com/photo/2021/10/08/18/55/website-6692147_1280.png",
+      "title": "Building Responsive Websites",
+      "author_img": "https://cdn.pixabay.com/photo/2018/05/29/21/24/portrait-3440139_1280.jpg",
+      "author": "Michael Brown",
+      "posted_date": "2024-04-10",
+      "reading_time": 18,
+      "hashtags": ["#ResponsiveDesign", "#WebDesign", "#UXUI"]
+  }
+]
